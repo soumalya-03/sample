@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+.venv_mac/
+__pycache__/
+*.pyc
+.pytest_cache/
+frontend/dist/
+*.tsbuildinfo
+.env
